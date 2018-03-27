@@ -1,0 +1,25 @@
+body {
+  margin-top: 56px;
+  font-family: "Cantarell Light", sans-serif;
+  color: rgba(050,160,215,0.9);
+}
+.div-scrollSpy {
+  position: relative;
+  height: 450px;
+  overflow: auto;
+  background: url("https://raw.githubusercontent.com/jolaff/PortfolioJLF/master/images/background.jpg") center no-repeat fixed;
+  background-size: 120%;
+  padding: 1px;
+}
+h1 {
+  text-align: center;
+}
+.contBG {
+  background: rgba(00,00,00,0.7);
+  padding-top: 25px;
+}
+hr {
+  border-width: 2px;
+  margin: -1px 0;
+  background: -webkit-gradient(linear,  0 0, 100% 0, from(rgba(255,0,0,0)), to(rgba(255,0,0,0)), color-stop(50%, rgba(050,160,215,0.9)));
+}
